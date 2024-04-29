@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	background-color:rebeccapurple;
+}
+#buttons{
+	margin-top:40%;
+	display:flex;
+
+	text-align:center;
+}
+.btn{
+	height:30px;
+	margin:10px;
+	width:70px;
+	background-color:lightpink;
+}
+.stop{
+	height:30px;
+	margin:10px;
+	width:70px;
+	background-color:lightpink;
+}
